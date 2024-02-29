@@ -12,3 +12,9 @@ body {
   height: 100%;
   background-color: #565454;
 }
+
+.Cal{
+  text-align: center;
+  color: aliceblue;
+  margin: 1em;
+}
